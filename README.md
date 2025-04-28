@@ -9,7 +9,6 @@
 [![Telegram](https://img.shields.io/badge/-@Allo211-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Allo211)
 ![Location](https://img.shields.io/badge/%F0%9F%8C%8D_Rostov--on--Don-22D3EE?style=flat)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/allon21/)
-
 </div>
 
 ### Обо мне
@@ -28,3 +27,5 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
+
+📧 **Почта:** [anthon.chub@yandex.ru](mailto:anthon.chub@yandex.ru)
